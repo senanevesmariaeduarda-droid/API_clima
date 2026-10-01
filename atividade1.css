@@ -1,0 +1,35 @@
+body {
+    background-color: #eaf6ff;
+    font-family: Arial, sans-serif;
+    color: #2f4f4f;
+    text-align: center;
+}
+
+h1 {
+    color: #1976d2;
+    font-size: 45px;
+    margin-top: 160px;
+}
+
+img {
+    width: 180px;
+    display: block;
+    margin: 30px auto;
+}
+
+input {
+    display: block;
+    margin: 20px auto;
+    width: 250px;
+    padding: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #ffd166;
+    border: none;
+}
+
+#resultado {
+    margin-top: 25px;
+}
